@@ -1,18 +1,18 @@
 body {
     color: rgb(0, 0, 0);
     text-align: left;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
 }
 
 #container {
-    width: 70%;
+    width: 75%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 2px solid #DDD;
     margin: 0 auto;
 }
 
 #container h1 {
-    font-size: 25px;
+    font-size: 30px;
 }
