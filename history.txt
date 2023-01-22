@@ -5,3 +5,9 @@ Este año 2023 va a ser de exitos, mucho estudio, viajes y dinero en cantidades 
 Tengo mucha fe de que esto va a suceder porque para el 2021 no tenia absolutamente nada y en 2022 pude triplicar mis ingresos.
 
 Ahora hablaremos de mi estado actual.
+
+Para modificar en vim:
+1. tenemos que undir la tecla "i" para que podamos insertar en el documento.
+2. para salirnos de cualquier modo en el que estemos en la ventana de "vim", presionamos la tecla ESC.
+3. guardamos con :w (estando afuera en el modo de comando con ESC)
+4. nos salimos del modo vim con ctrl z.
