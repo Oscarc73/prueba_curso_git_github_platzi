@@ -52,3 +52,13 @@ footer p {
     margin: 0 auto;
     padding: .625rem 0;
 }
+
+.image {
+    display: inline-flex;
+}
+
+.image_prueba {
+    align-items: center;
+    width: 50%;
+    height: 50%;
+}
