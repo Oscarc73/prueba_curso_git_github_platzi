@@ -11,3 +11,6 @@ Para modificar en vim:
 2. para salirnos de cualquier modo en el que estemos en la ventana de "vim", presionamos la tecla ESC.
 3. guardamos con :w (estando afuera en el modo de comando con ESC)
 4. nos salimos del modo vim con ctrl z.
+
+Prueba para hacer rebase:
+1. prueba en el main.

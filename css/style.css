@@ -55,10 +55,13 @@ footer p {
 
 .image {
     display: inline-flex;
+    justify-content: center;
+    width: 100%;
 }
 
 .image_prueba {
-    align-items: center;
     width: 50%;
     height: 50%;
+    padding: .9375rem;
+    border-radius: 1.875rem;
 }
