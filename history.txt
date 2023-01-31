@@ -14,3 +14,5 @@ Para modificar en vim:
 
 Prueba para hacer rebase:
 1. prueba en el main.
+
+3. esta prueba la hago en main esperando fusionar la rama exam con esta version y que no cause errores.
